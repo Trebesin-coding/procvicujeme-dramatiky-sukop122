@@ -1,20 +1,24 @@
 {
     "popular_books": [
         {
-            "title": "Zhýralec"
+            "title": "Nikdy, nikdy, nikdy"
         },
         {
-            "title": "Meluzína"
+            "title": "Podlé Vrány"
         },
         {
-            "title": "Impérium chaosu"
+            "title": "Mrazivé pouto"
         },
         {
-            "title": "Miko: Návrat"
+            "title": "Tři hodiny lásky"
         },
         {
             "title": "Krev křišťálového květu"
         }
     ],
-    "new_books": []
+    "new_books": [
+        "Sarah Mallory",
+        "Brenda Li",
+        "Steffen Spandler"
+    ]
 }

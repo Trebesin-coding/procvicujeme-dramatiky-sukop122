@@ -27,7 +27,8 @@ def main():
 
         new_authoros = []
 
-        new_bok = page.locator("div.newBooks div.book a").all()
+        new_bok = page.locator("div.nbox_book a").all()
+        print("found new bok:", len(new_bok))
 
         for i in range (min(3, len(new_bok))):
             new_bok[i].click()

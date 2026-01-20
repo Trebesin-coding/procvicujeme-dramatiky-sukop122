@@ -1,4 +1,6 @@
 from playwright.sync_api import sync_playwright
+import os
+path = os.path.join(os.path.dirname(__file__), "comic_screenshots")
 
 def main():
 
